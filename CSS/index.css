@@ -1,0 +1,44 @@
+body{
+	background-color: #000a03;
+}
+
+h1{
+	margin:0px;
+	color:white;
+}
+h2{
+	margin:0px;
+	color:white;
+}
+h3{
+	margin:0px;
+	color:white;
+}
+p{
+	color: white;
+	text-indent: 4em;
+}
+
+#nav-bar{
+	display: flex;
+	/*width: 100%;*/
+	height: 25px;
+	max-width: 60%;
+
+}
+
+.nav-item{
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+	color: white;
+	background-color: #000a03;
+}
+
+.nav-item:hover{
+	color:blue;
+}
+#lore{
+	max-width: 65%;
+}
+
